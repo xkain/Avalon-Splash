@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+  version="1.1"
+  id="svg2"
+  viewBox="0 0 1365.9041 1358.6472"
+  width="1365.9041"
+  height="1358.6472"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata
+   id="metadata18">
+  <rdf:RDF>
+   <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+      rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs
+   id="defs3051">
+  <style
+    type="text/css"
+    id="current-color-scheme" />
+  <style
+    id="current-color-scheme-3"
+    type="text/css" />
+  <linearGradient
+    id="linearGradient4326">
+   <stop
+     id="stop4328" />
+   <stop
+     offset="1"
+     style="stop-opacity:0"
+     id="stop4330" />
+  </linearGradient>
+  <linearGradient
+    xlink:href="#linearGradient4326"
+    id="linearGradient4434-3"
+    y1="502.798"
+    x1="439.57144"
+    y2="512.79803"
+    x2="429.57144"
+    gradientUnits="userSpaceOnUse" />
+ </defs>
+ <path
+   style="display:inline;fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd"
+   id="path4422-3"
+   d="m 41,5 -6,6 11,11 -11,11 6,6 17,-17 z"
+   transform="matrix(8.972557,0,0,8.7564911,395.82998,403.49398)" />
+ <rect
+   width="6.2500191"
+   x="400.32141"
+   y="489.79797"
+   rx="3.12501"
+   height="6.2500191"
+   style="display:inline;fill:#fbfbfb;fill-opacity:1"
+   id="rect4119-5"
+   transform="matrix(8.972557,0,0,8.7564911,-3054.7591,-3832.8789)" />
+ <rect
+   width="9.00002"
+   x="390.57141"
+   y="509.2988"
+   rx="4.4999952"
+   height="8.9999914"
+   style="display:inline;fill:#fbfbfb;fill-opacity:1"
+   id="rect4308-6"
+   transform="matrix(8.972557,0,0,8.7564911,-3054.7591,-3832.8789)" />
+ <rect
+   width="12.999995"
+   x="403.57144"
+   y="528.79803"
+   rx="6.4999981"
+   height="12.999995"
+   style="display:inline;fill:#fbfbfb;fill-opacity:1"
+   id="rect4312-2"
+   transform="matrix(8.972557,0,0,8.7564911,-3054.7591,-3832.8789)" />
+ <path
+   style="display:inline;opacity:0.9;fill:url(#linearGradient4434-3);fill-rule:evenodd"
+   id="path4426-9"
+   d="m 423.57143,512.798 6,6 7,-7 -6,-6 z"
+   transform="matrix(8.972557,0,0,8.7564911,-3054.7591,-3832.8789)" />
+</svg>
